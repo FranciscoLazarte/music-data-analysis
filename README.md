@@ -34,6 +34,12 @@ Explore the dataset and identify trends in:
 
 * `Music_Collection_Analysis.ipynb` → full analysis notebook
 
+## Presentation
+
+A visual summary of the analysis is available here:
+
+[View Presentation](Francisco's Music Collection.pdf)
+
 ## Future Improvements
 
 * Add genre analysis
