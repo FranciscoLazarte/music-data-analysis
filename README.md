@@ -38,7 +38,7 @@ Explore the dataset and identify trends in:
 
 A visual summary of the analysis is available here:
 
-[View Presentation](Francisco's Music Collection.pdf)
+[View Presentation](music_collection.pdf)
 
 ## Future Improvements
 
